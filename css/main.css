@@ -1,22 +1,20 @@
 .center-block {
-	display: block;
+	
   	margin-left: auto;
   	margin-right: auto;
-  	width: 70%;
+  	
 }
 
-.navigate {
+/*.navigate {
 	padding: 0;
 	width: 100%;
 	background-color: #eee;
-}
+}*/
 
 .navbar {
 	margin-bottom: 0px;
-	background-color: #eee;
-	width: 70%;
+	width: 100%;
 	margin: 0 auto;
-	display: block;
 }
 
 .ingredientrow {
